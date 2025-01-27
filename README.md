@@ -12,7 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=2&width=800&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=react%2Creact%2C61DAFB%3Bnext.js%2Cnext.js%2Cffffff%3Bjavascript%2Cjavascript%2Cf7df1e%3Btailwindcss%2Ctailwindcss%2C06B6D4%3Bhtml5%2Chtml5%2CE34F26%3Bcss3%2Ccss3%2C1572B6%3B)
+
+
+Blog : [velog](https://velog.io/@skiende74/posts)
+
+### Skills
+| Frontend | Skills |
+|---|---|
+| Core | <img src="https://img.shields.io/badge/react-skyblue"/> <img src="https://img.shields.io/badge/next-black"/> <img src="https://img.shields.io/badge/typescript-blue"/>|
+| State Management |  <img src="https://img.shields.io/badge/React Query-yellow"/> <img src="https://img.shields.io/badge/zustand-brown"/> <img src="https://img.shields.io/badge/recoil-lightblue"/>|
+| Testing | <img src="https://img.shields.io/badge/jest-C21325"> <img src="https://img.shields.io/badge/Storybook-FF4785"> <img src="https://img.shields.io/badge/React Testing Library-FF2222"> <img src="https://img.shields.io/badge/MSW-orange"> |
+| Infra | <img src="https://img.shields.io/badge/GithubActions-black"> <img src="https://img.shields.io/badge/AWS-white">|
+| Build Tool |  <img src="https://img.shields.io/badge/Webpack-2088FF"> <img src="https://img.shields.io/badge/vite-blue"> |
+
+| | Skills|
+|---|---|
+| Others | <img src="https://img.shields.io/badge/Spring Boot-green"> <img src="https://img.shields.io/badge/Java-red"> <img src="https://img.shields.io/badge/Python-3776AB">   |
+
+<br/><br/>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempba01)](https://solved.ac/tempba01)
