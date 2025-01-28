@@ -31,6 +31,10 @@ Blog : [velog](https://velog.io/@skiende74/posts)
 
 <br/>
 
+#### Education
+우아한 테크코스 6기 (2024. 02 ~ 2024. 11)
+UNIST (2014. 03 ~ 2021. 08)
+
 #### 🔍 Open-source contributions
 - toss/es-hangul
   - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
