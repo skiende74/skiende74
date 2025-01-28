@@ -31,7 +31,7 @@ Blog : [velog](https://velog.io/@skiende74/posts)
 
 <br/>
 
-##### 🔍 Open-source contributions
+#### 🔍 Open-source contributions
 - toss/es-hangul
   - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
 
