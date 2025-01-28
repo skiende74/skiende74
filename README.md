@@ -19,10 +19,10 @@ Blog : [velog](https://velog.io/@skiende74/posts)
 ### Skills
 | Frontend | Skills |
 |---|---|
-| Core | <img src="https://img.shields.io/badge/react-skyblue"/> <img src="https://img.shields.io/badge/next-black"/> <img src="https://img.shields.io/badge/typescript-blue"/>|
+| Core | <img src="https://img.shields.io/badge/React-skyblue"/> <img src="https://img.shields.io/badge/Next-black"/> <img src="https://img.shields.io/badge/TypeScript-blue"/>|
 | State Management |  <img src="https://img.shields.io/badge/React Query-yellow"/> <img src="https://img.shields.io/badge/zustand-brown"/> <img src="https://img.shields.io/badge/recoil-lightblue"/>|
 | Testing | <img src="https://img.shields.io/badge/jest-C21325"> <img src="https://img.shields.io/badge/Storybook-FF4785"> <img src="https://img.shields.io/badge/React Testing Library-FF2222"> <img src="https://img.shields.io/badge/MSW-orange"> |
-| Infra | <img src="https://img.shields.io/badge/GithubActions-black"> <img src="https://img.shields.io/badge/AWS-white">|
+| Infra | <img src="https://img.shields.io/badge/Github Actions-black"> <img src="https://img.shields.io/badge/AWS-white">|
 | Build Tool |  <img src="https://img.shields.io/badge/Webpack-2088FF"> <img src="https://img.shields.io/badge/vite-blue"> |
 
 | | Skills|
@@ -32,8 +32,10 @@ Blog : [velog](https://velog.io/@skiende74/posts)
 <br/>
 
 #### Education
-우아한 테크코스 6기 (2024. 02 ~ 2024. 11)
+<p>
+우아한 테크코스 6기 (2024. 02 ~ 2024. 11) <br/>
 UNIST (2014. 03 ~ 2021. 08)
+</p>
 
 #### 🔍 Open-source contributions
 - toss/es-hangul
