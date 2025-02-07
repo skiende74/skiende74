@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Blog : [velog](https://velog.io/@skiende74/posts)
+Blog : [velog](https://velog.io/@skiende74/posts), [seyoeung-jeon-blog (디자인 개선 중)](https://seyoung-jeon.site)
 
 ### Skills
 | Frontend | Skills |
