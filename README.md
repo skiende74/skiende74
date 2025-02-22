@@ -20,11 +20,11 @@ Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog (디자인
 | Frontend | Skills |
 |---|---|
 | Core | <img src="https://img.shields.io/badge/React-skyblue"/> <img src="https://img.shields.io/badge/Next-black"/> <img src="https://img.shields.io/badge/TypeScript-blue"/>|
-| State Management |  <img src="https://img.shields.io/badge/React Query-yellow"/> <img src="https://img.shields.io/badge/Zustand-brown"/> <img src="https://img.shields.io/badge/Recoil-lightblue"/>|
+| State Management |  <img src="https://img.shields.io/badge/Tanstack Query-yellow"/> <img src="https://img.shields.io/badge/Zustand-brown"/> <img src="https://img.shields.io/badge/Recoil-lightblue"/>|
 | Styling | <img src="https://img.shields.io/badge/Emotion-d26bc2"> <img src="https://img.shields.io/badge/TailwindCSS-skyblue">|
 | Testing | <img src="https://img.shields.io/badge/jest-C21325"> <img src="https://img.shields.io/badge/Storybook-FF4785"> <img src="https://img.shields.io/badge/React Testing Library-FF2222"> <img src="https://img.shields.io/badge/MSW-orange"> |
 | Infra | <img src="https://img.shields.io/badge/Github Actions-black"> <img src="https://img.shields.io/badge/AWS-white">|
-| Build Tool |  <img src="https://img.shields.io/badge/Webpack-2088FF"> <img src="https://img.shields.io/badge/vite-blue"> |
+| Build Tool |  <img src="https://img.shields.io/badge/Webpack-2088FF"> <img src="https://img.shields.io/badge/Vite-blue"> |
 
 | | Skills|
 |---|---|
