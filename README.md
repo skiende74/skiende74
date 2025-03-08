@@ -34,8 +34,8 @@ Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog (디자인
 
 #### Education
 <p>
-우아한 테크코스 6기 <br/>
-UNIST 
+우아한 테크코스 6기 수료 <br/>
+UNIST 졸업
 </p>
 
 #### 🔍 Open-source contributions
