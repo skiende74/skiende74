@@ -27,10 +27,11 @@ UNIST 졸업
 - toss/es-hangul
   - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
 
----
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempba01)](https://solved.ac/tempba01)
 
+---
 
 ### Skills
 | Frontend | Skills |
