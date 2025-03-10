@@ -23,14 +23,6 @@ Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog](https://s
 UNIST 졸업
 </p>
 
-#### 🔍 Open-source contributions
-- toss/es-hangul
-  - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempba01)](https://solved.ac/tempba01)
-
 ---
 
 ### Skills
@@ -48,3 +40,12 @@ UNIST 졸업
 | Others | <img src="https://img.shields.io/badge/Spring Boot-green"> <img src="https://img.shields.io/badge/Java-red"> <img src="https://img.shields.io/badge/Python-3776AB">   |
 
 <br/>
+---
+#### 🔍 Open-source contributions
+- toss/es-hangul
+  - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempba01)](https://solved.ac/tempba01)
+
