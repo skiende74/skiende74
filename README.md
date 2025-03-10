@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog](https://seyoung-jeon.site)
 
 
-#### Education
+### 📖 Education
 <p>
 우아한 테크코스 6기 수료 <br/>
 UNIST 졸업
 </p>
 
----
+### 🔍 Open-source contributions
+- toss/es-hangul
+  - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
+
 
 ### Skills
 | Frontend | Skills |
@@ -40,10 +43,6 @@ UNIST 졸업
 | Others | <img src="https://img.shields.io/badge/Spring Boot-green"> <img src="https://img.shields.io/badge/Java-red"> <img src="https://img.shields.io/badge/Python-3776AB">   |
 
 <br/>
----
-#### 🔍 Open-source contributions
-- toss/es-hangul
-  - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
 
 
 [![Solved.ac
