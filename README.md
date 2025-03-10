@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog](https://seyoung-jeon.site)
 
 
-### 📖 Education
+### Education
 <p>
 우아한 테크코스 6기 수료 <br/>
 UNIST 졸업
 </p>
 
-### 🔍 Open-source contributions
+### Open-source contributions
 - toss/es-hangul
   - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
 
@@ -44,6 +44,7 @@ UNIST 졸업
 
 <br/>
 
+---
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempba01)](https://solved.ac/tempba01)
