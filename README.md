@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Blog : [velog](https://velog.io/@skiende74/posts), [seyoung-jeon-blog](https://seyoung-jeon.site)
+Blog : [seyoung-jeon-blog](https://seyoung-jeon.site)
 
 
 ### Education
