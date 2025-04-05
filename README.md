@@ -26,7 +26,8 @@ UNIST 졸업
 ### Open-source contributions
 - toss/es-hangul
   - combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
-
+- rehype-prism-plus
+  - showLineNumbers 옵션에 특정언어 선택기능을 추가[#75](https://github.com/timlrx/rehype-prism-plus/pull/75)
 
 ### Skills
 | Frontend | Skills |
