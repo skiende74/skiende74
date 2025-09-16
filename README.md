@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-Blog : [seyoung-jeon-blog](https://seyoung-jeon.site)
 
+### Open-source contributions
+- TanstackQuery : [fix: fix to show type error on wrong type annotation in useQuery](https://github.com/TanStack/query/pull/8683)
+- toss/es-hangul : combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
+- rehype-prism-plus : showLineNumbers 옵션에 특정언어 선택기능을 추가[#75](https://github.com/timlrx/rehype-prism-plus/pull/75)
 
 ### Education
 <p>
@@ -23,10 +26,10 @@ Blog : [seyoung-jeon-blog](https://seyoung-jeon.site)
 UNIST 졸업
 </p>
 
-### Open-source contributions
-- TanstackQuery : [fix: fix to show type error on wrong type annotation in useQuery](https://github.com/TanStack/query/pull/8683)
-- toss/es-hangul : combineVowels 함수 타입추론 강화 [#308](https://github.com/toss/es-hangul/pull/308)
-- rehype-prism-plus : showLineNumbers 옵션에 특정언어 선택기능을 추가[#75](https://github.com/timlrx/rehype-prism-plus/pull/75)
+
+Blog : [seyoung-jeon-blog](https://seyoung-jeon.site)
+
+
 
 ### Skills
 | Frontend | Skills |
