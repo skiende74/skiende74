@@ -36,6 +36,8 @@ First author of an SCI-indexed journal paper
 IJCST 2025-11-10
 DOI: [10.1108/IJCST-01-2025-0023](https://10.1108/IJCST-01-2025-0023)
 
+DFS를 응용한 의류학연구 특허출원 2건
+
 ### Skills
 | Frontend | Skills |
 |---|---|
