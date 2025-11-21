@@ -29,7 +29,10 @@ UNIST 졸업
 
 Blog : [seyoung-jeon-blog](https://seyoung-jeon.site)
 
-
+### Published
+"Deep learning-based prediction of women’s torso shapes from clothing pressure for tight-fitted top design"
+IJCST 2025-11-10
+DOI: 10.1108/IJCST-01-2025-0023
 
 ### Skills
 | Frontend | Skills |
