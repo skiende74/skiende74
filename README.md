@@ -36,7 +36,12 @@ First author of an SCI-indexed journal paper
 IJCST 2025-11-10
 DOI: [10.1108/IJCST-01-2025-0023](https://10.1108/IJCST-01-2025-0023)
 
-DFS를 응용한 의류공학 연구 특허출원(patent) 2건
+Second author of an SCI-indexed journal
+"Brain-Inspired Mutual Synchronization in Cross-Coupled NbO<sub>x</sub> Oscillation Neurons for Oscillatory Neural Network Applications"
+IEEE ACCESS
+DOI: [10.1109/access.2023.3301562](https://ieeexplore.ieee.org/document/10207017/)
+
+DFS 알고리즘을 응용한, edge 추출 연구 특허출원(patent) 2건
 
 ### Skills
 | Frontend | Skills |
